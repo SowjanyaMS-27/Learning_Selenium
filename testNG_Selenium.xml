@@ -3,7 +3,7 @@
 <suite name="Suite1" verbose="1">
     <test name="Regression1">
         <classes>
-            <class name="Selenium.learning.Selenium_006"> </class>
+            <class name="Selenium.learning.Selenium_007"> </class>
         </classes>
     </test>
 </suite>
