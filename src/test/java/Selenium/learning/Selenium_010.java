@@ -41,7 +41,7 @@ public class Selenium_010 {
         Assert.assertTrue(actualText.contains(
                 "Your email, password, IP address or location did not match"));
 
-        driver.close();
+        driver.quit();
 
 
     }
