@@ -99,24 +99,6 @@ public class Selenium_009 {
         WebElement submit1 = wait.until(ExpectedConditions.elementToBeClickable
                 (By.xpath("//button[@id='submit']")));
         submit1.click();
-        driver.quit();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     }
 
